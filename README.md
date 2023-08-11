@@ -1,2 +1,2 @@
 # DA.Projects
-My projects
+SQL & Power BI Projects
